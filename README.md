@@ -1,6 +1,6 @@
 # jximportest
 
-REPLACE_ME_GIT_PROVIDER
+github.com
 
-REPLACE_ME_GIT_PROVIDER/
-REPLACE_ME_ORG/REPLACE_ME_APP_NAME/REPLACE_ME_DOCKER_REGISTRY_ORG
+github.com/
+ryandawsonuk/jximportest/ryandawsonuk
